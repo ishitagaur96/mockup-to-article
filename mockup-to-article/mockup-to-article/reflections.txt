@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+* I have learnt how to make simple webpage using HTML and make it stylish by using different HTML tags.
+* It was an easy code. I have read HTML before so it was an easy task.
+* Nothing has been difficult. I just wrote em tag instead of strong once. Not difficult.
+* I have used stratergies from first project and my last nanodegree to understand problem, divide them into sub sections and then solve them.
